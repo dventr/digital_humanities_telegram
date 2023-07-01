@@ -8,4 +8,4 @@ The scripts are based on other projects. Before using the scripts, one has to fo
 - BERTopic modeling https://maartengr.github.io/BERTopic/index.html
 - word embedding analysis https://gitlab.uzh.ch/noah.bubenhofer/kodup-germanistik/-/tree/master/4._Korpusanalyse/Word_Embeddings 
 
-With this toolkit, users can gain valuable insights into various aspects of Telegram messages and their concept of freedom, enabling researchers to understand the different contexts freedom was related to in Telegram data.
+With this toolkit, users can gain valuable insights into various aspects of Telegram messages and their concept, enabling researchers to understand the specialized vocabulary present in Telegram data.
